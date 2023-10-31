@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 310">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0b0f0f;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 269.98px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="595.28" height="296.3"/>
+  <g>
+    <rect class="cls-2" x="289.64" y="156.42" width="40.78" height="99.01" transform="translate(11.04 427.58) rotate(-70.14)"/>
+    <text class="cls-3" transform="translate(50.93 242.51)">M</text>
+    <rect class="cls-4" x="349.77" y="53.72" width="40.78" height="188.71"/>
+    <rect class="cls-4" x="319.64" y="23.59" width="40.78" height="101.04" transform="translate(414.14 -265.92) rotate(90)"/>
+    <text class="cls-3" transform="translate(338.59 242.51)">C</text>
+  </g>
+</svg>

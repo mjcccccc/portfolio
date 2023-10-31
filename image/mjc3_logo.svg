@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485.29 296.85">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #070808;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 269.98px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="289.08" y="156.16" width="40.78" height="99.01" transform="translate(-39.45 413.99) rotate(-70.14)"/>
+  <text class="cls-2" transform="translate(0 229.35)">M</text>
+  <rect class="cls-3" x="298.84" y="40.56" width="40.78" height="188.71"/>
+  <rect class="cls-3" x="319.08" y="23.33" width="40.78" height="101.04" transform="translate(362.96 -278.52) rotate(90)"/>
+  <text class="cls-2" transform="translate(287.67 229.35)">C</text>
+</svg>
